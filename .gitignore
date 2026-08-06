@@ -1,0 +1,6 @@
+*.tif
+*.tif.aux.xml
+*.bsp
+*.zip
+__pycache__/
+*.pyc
